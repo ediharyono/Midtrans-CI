@@ -1,7 +1,7 @@
 Midtrans Codeigniter library
 =======================================================
-MIdtrans :heart: CI!
-
+MIdtrans :heart: CI! https://www.youtube.com/watch?v=bZ937VfxFaQ
+ 
 Veritrans now is Midtrans
 
 This is the all new Codeigniter client library for Veritrans 2.0. Visit [https://www.midtrans.com](https://www.veritrans.co.id) for more information about the product and see documentation at [http://docs.midtrans.com](http://docs.veritrans.co.id) for more technical details. 
